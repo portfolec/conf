@@ -46,3 +46,4 @@ python emulator.py --script script.txt virtual_fs.tar     # py название 
 ```bash
 python -m  unittest unttests.py
 ```
+<img width="567" alt="Снимок экрана 2024-12-20 в 15 08 00" src="https://github.com/user-attachments/assets/7143d40c-a62f-4d0a-a7cb-01e54cddf079" />
