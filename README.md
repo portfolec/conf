@@ -39,10 +39,10 @@ log.xml                      #log файл
 
 # 4. Запуск проекта
 ```bash
-py emulator.py --script script.txt virtual_fs.tar     # py название файла <стартоый скрипт> <файл с образом файловой системы>
+python emulator.py --script script.txt virtual_fs.tar     # py название файла <стартоый скрипт> <файл с образом файловой системы>
 ```
 
 # 5 Тесты
 ```bash
-py -m  unittest unttests.py
+python -m  unittest unttests.py
 ```
