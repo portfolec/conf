@@ -1,0 +1,7 @@
+ls
+mkdir test_dir
+ls
+cd home
+ls
+history
+
